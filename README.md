@@ -29,5 +29,5 @@ Você poderá encontrar o Dashboard, o arquivo do projeto e a versão convertida
 | Formato | Link |
 |--|--|
 |Power BI online|[Link](https://app.powerbi.com/view?r=eyJrIjoiNjVjOGFkOWMtOGRhNy00OGI2LWIyYTItNWRkOThjZGQxZmE3IiwidCI6IjdlOTNlMjg2LWIyOWEtNDQ1NC1hNDFhLWU4NDE5ZWM5ZGViNSJ9&pageName=ReportSection6581158cc9147525f8e3&target=_blank)|
-|Power BI offline|[.pbix](https://github.com/athossampayo/E-commerce-Olist-Satisfaction-Analysis/blob/main/)|
-|PDF|[.pdf](https://github.com/athossampayo/E-commerce-Olist-Satisfaction-Analysis/blob/main/)|
+|Power BI offline|[.pbix](https://github.com/athossampayo/E-commerce-Olist-Satisfaction-Analysis/blob/main/Teste%20Est%C3%A1gio%20Lett%20-%20Dashboard%20Olist.pbix)|
+|PDF|[.pdf](https://github.com/athossampayo/E-commerce-Olist-Satisfaction-Analysis/blob/main/Teste%20Est%C3%A1gio%20Lett%20-%20Dashboard%20Olist.pdf)|
