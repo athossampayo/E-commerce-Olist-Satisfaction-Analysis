@@ -1,5 +1,5 @@
 # E-commerce (Olist) Customer Satisfaction Analysis
-This project was an analysis of Customer Satisfaction from public data of the brazillian e-commerce named Olist.<br>
+This project was an analysis of Customer Satisfaction from public data of the brazilian e-commerce named Olist.<br>
 ![Power BI](https://img.shields.io/static/v1?style=flat-square&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
 > This project was developed entirely in Brazilian Portuguese. If you have any questions please contact me or feel free to open an issue.
 ## Contatos
